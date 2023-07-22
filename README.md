@@ -18,6 +18,6 @@ pip install -r requirements.txt
 
 ## Usage
 
-To run the NCA algorithm on the medMNIST dataset use the jupyter notebook `medmnist_nca.ipynb`. The notebook is originally desinged to run on Kaggle, but can be run locally as well. To run the notebook locally, download the medMNIST dataset from [here](https://medmnist.com/) and place it in the same folder. Then run the notebook.
+To run the NCA algorithm on the medMNIST dataset use the jupyter notebook `medmnist_nca.ipynb`. The notebook is originally desinged to run on [Kaggle](https://www.kaggle.com), but can be run locally as well. To run the notebook locally, download the medMNIST dataset from [here](https://medmnist.com/) and place it in the same folder. Then run the notebook.
 
 
